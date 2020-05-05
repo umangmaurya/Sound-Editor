@@ -1,4 +1,4 @@
-# Sound_Editor_in_Java developed with help of Anab Khan
+# Sound_Editor_in_Java 
 
 This is simple sound editor application it is made with Jframe UI and 
 it can play an audio file MP3 and Wav
